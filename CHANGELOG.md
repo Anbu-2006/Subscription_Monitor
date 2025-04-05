@@ -10,3 +10,4 @@ Automated and verified release changelog.
 - [2025-03-22 09:15] perf(state): memoize active subscription aggregates in client store
 - [2025-03-26 09:33] feat(export): add CSV and JSON expense ledger export functionality
 - [2025-03-31 09:15] style(theme): enhance dark mode contrast and category tag badges
+- [2025-04-05 09:24] test(billing): assert prorated renewal calculations and trial expirations
