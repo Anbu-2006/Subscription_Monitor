@@ -1,5 +1,5 @@
 # SUBSCRIPTION MONITOR
-#### Video Demo: [INSERT YOUR YOUTUBE URL HERE]
+#### Video Demo: https://youtu.be/fFDCxR-pl3s?si=LKbuiPo_zaQNq84Q
 
 #### Description:
 Subscription Monitor is a user-friendly desktop application built using Python. It helps everyday users track their recurring subscriptions, software licenses, and utility bills in one clean, centralized dashboard. 
