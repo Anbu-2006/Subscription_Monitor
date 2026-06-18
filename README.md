@@ -19,3 +19,5 @@ Unlike a standard Excel spreadsheet or static text list, this application does a
 3. **`requirements.txt`**: A simple text file that lists external packages (`tabulate`) needed to keep text panels organized.
 4. **`subscriptions.csv`**: The local database file where all your entries are saved securely so you never lose your data when closing the window.
 
+### What I Learned Outside the Course:
+While the CS50P course taught me excellent foundational coding, loops, and file handling, I wanted to learn how to build real desktop software. I independently researched and learned how to build graphical layouts using **Tkinter**. I also learned how to use the **Clam Style Engine** to create a custom dark theme so that all dropdown text elements are perfectly visible, readable, and professional.
