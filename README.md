@@ -13,3 +13,9 @@ Unlike a standard Excel spreadsheet or static text list, this application does a
 - **Financial Analytics Summary:** Automatically sums up your total active accounts and calculates your total yearly and monthly costs grouped cleanly by currency.
 - **Subscription Cancellation Support:** Features a "Cancel / Delete Selected" button that allows you to click any row in your table to wipe out a cancelled subscription from your tracker and update your CSV database file instantly.
 
+### File Breakdown:
+1. **`project.py`**: This is the main file containing the Tkinter Dark Mode desktop interface layout, the delete entry system, and the core calendar processing code.
+2. **`test_project.py`**: This file contains the automated testing functions used by `pytest` to verify that the app's data validation, date shifting, and row filtering logic are 100% correct.
+3. **`requirements.txt`**: A simple text file that lists external packages (`tabulate`) needed to keep text panels organized.
+4. **`subscriptions.csv`**: The local database file where all your entries are saved securely so you never lose your data when closing the window.
+
